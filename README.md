@@ -4,4 +4,4 @@ These are for:
 - [Empyrian Campaign](https://dorkster.itch.io/flare)
 
 Just add the respective *fam.txt* to *npcs* and replace the file in *maps*.  
-Afterwards you will find *Fam* in the respective mod selling several items, including developer ones that I found.
+Afterwards you will find `Fam, Cheater` in the respective mod selling several items, including developer ones that I found.
