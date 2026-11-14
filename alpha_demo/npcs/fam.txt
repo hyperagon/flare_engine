@@ -1,0 +1,14 @@
+name=Fam, Cheater
+
+# shop info
+vendor=true
+constant_stock=1,2,3,4,5,6,106,111,112,113,114,119,120,121,122,123,124,126,
+
+# animation info
+animations=animations/npcs/peasant_woman2.txt
+
+# voiceover files
+vox_intro=soundfx/npcs/female_merchant_05.ogg
+vox_intro=soundfx/npcs/female_merchant_06.ogg
+vox_intro=soundfx/npcs/female_merchant_07.ogg
+vox_intro=soundfx/npcs/female_merchant_08.ogg
